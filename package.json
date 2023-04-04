@@ -1,0 +1,12 @@
+{
+  "name": "reverse-registrar",
+  "version": "1.0.0",
+  "description": "Reverse register rns name",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "ahsan",
+  "license": "ISC",
+  "homepage": "https://github.com/ahsan-javaiid/reverse-registrar#readme"
+}
